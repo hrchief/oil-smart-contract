@@ -1,0 +1,1 @@
+Next generation decentralized deflationary farming platform and yield aggregator/optimizer built on binance smart chain to power the DEFI economy
